@@ -1,5 +1,11 @@
+# IDEA files
 .idea
-.gradle
 out
-target
 *.iml
+
+# Gradle files
+.gradle
+build
+
+# Maven files
+target
