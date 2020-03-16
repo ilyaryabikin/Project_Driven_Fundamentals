@@ -1,3 +1,5 @@
+package bankstatement;
+
 import bankstatement.domain.BankTransaction;
 import org.junit.Assert;
 import org.junit.Test;
